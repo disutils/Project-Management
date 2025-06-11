@@ -1,9 +1,6 @@
 # Project-Management
 This repo describes and explains how we manage and configure all our python bots.
-All bot developers are required to brief this repo.
-
-Before you read this make sure you have python version `3.12.x` installed in your system.
-
+All Disutils bot developers are required to brief this repo and if you are one reading this, make sure you have python version `3.12.x` installed in your system.
 
 ## Introduction
 We use the `uv` project manager for our bots. `uv` handles configuration, dependancies and environments while being extremely fast and efficient!
